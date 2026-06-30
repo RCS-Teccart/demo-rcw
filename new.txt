@@ -1,1 +1,1 @@
-Un fichier for the second feature from github
+Un fichier for the second feature from github for fetch + merge
